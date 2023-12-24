@@ -16,6 +16,5 @@ public class VarChange1 {
         b = 30;
         System.out.println("a = " + a);
         System.out.println("b = " + b);
-
     }
 }
