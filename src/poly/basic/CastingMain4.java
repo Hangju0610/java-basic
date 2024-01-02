@@ -11,5 +11,4 @@ public class CastingMain4 {
         Child child2 = (Child) parent2; // 런타임 오류 - ClassCastException
         child2.childMethod(); // 실행 불가
     }
-
 }
